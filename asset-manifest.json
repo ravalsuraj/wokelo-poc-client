@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wokelo-poc-client/static/css/main.13be66bb.css",
+    "main.js": "/wokelo-poc-client/static/js/main.c07245b0.js",
+    "static/js/787.12ff29ff.chunk.js": "/wokelo-poc-client/static/js/787.12ff29ff.chunk.js",
+    "static/media/LandingPageIllustration1.svg": "/wokelo-poc-client/static/media/LandingPageIllustration1.d828713447c44dcaac499e0acc730d82.svg",
+    "index.html": "/wokelo-poc-client/index.html",
+    "main.13be66bb.css.map": "/wokelo-poc-client/static/css/main.13be66bb.css.map",
+    "main.c07245b0.js.map": "/wokelo-poc-client/static/js/main.c07245b0.js.map",
+    "787.12ff29ff.chunk.js.map": "/wokelo-poc-client/static/js/787.12ff29ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13be66bb.css",
+    "static/js/main.c07245b0.js"
+  ]
+}
